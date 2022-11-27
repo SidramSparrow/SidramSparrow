@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SidramSparrow
 - 👀 I’m interested in Web development internship
 - 🌱 I’m currently learning html,css,javascript,java,python,c++,c,web development.
-- 💞️ I’m looking to collaborate on amazon,uber,google,etc
+- 💞️ I’m looking to collaborate with amazon,uber,google,etc
 - 📫 How to reach me mobile-number:9972940381, Email-id:bajantrisidram14@gmail.com
 
 <!---
